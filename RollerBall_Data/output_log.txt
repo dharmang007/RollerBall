@@ -1,0 +1,104 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dharmang Solanki\Documents\Unity Project\RollerBall\Game Folder\RollerBall_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.627643 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e8c -> priority: 1 
+  Thread -> id: 193c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.632340 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.983176 ms (FindLiveObjects: 0.109051 ms CreateObjectMapping: 0.099215 ms MarkObjects: 0.750960 ms  DeleteObjects: 0.021810 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.846464 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.866426 ms (FindLiveObjects: 0.083392 ms CreateObjectMapping: 0.065431 ms MarkObjects: 0.693654 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.391868 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 1.072128 ms (FindLiveObjects: 0.110334 ms CreateObjectMapping: 0.103919 ms MarkObjects: 0.834780 ms  DeleteObjects: 0.020955 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.118597 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.976334 ms (FindLiveObjects: 0.110762 ms CreateObjectMapping: 0.097505 ms MarkObjects: 0.744973 ms  DeleteObjects: 0.021810 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.343971 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.863005 ms (FindLiveObjects: 0.088524 ms CreateObjectMapping: 0.069279 ms MarkObjects: 0.681252 ms  DeleteObjects: 0.023093 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.676686 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.856163 ms (FindLiveObjects: 0.081681 ms CreateObjectMapping: 0.065858 ms MarkObjects: 0.683818 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.112610 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.928864 ms (FindLiveObjects: 0.088952 ms CreateObjectMapping: 0.069707 ms MarkObjects: 0.746256 ms  DeleteObjects: 0.023093 ms)
+
